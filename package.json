@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "collapse-whitespace": "1.1.2",
-    "jsdom": "^8.1.0"
+    "node-jsdom": "^3.1.5"
   },
   "devDependencies": {
     "qunit": "^0.7.6",
